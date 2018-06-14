@@ -1,0 +1,24 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+### Toolchain: beaglebone_black-armv7l-timesys-linux-gnueabihf-gcc-5.5.0-20180409-11:02 ###
+CC=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-gcc
+STRIP=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-strip
+CXX=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-g++
+CPP=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-cpp
+RANLIB=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-ranlib
+DEBUGGER=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-gdb
+AR=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-ar
+AS=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-as
+OBJCOPY=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-objcopy
+OBJDUMP=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-objdump
+LD=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-ld
+NM=/home/jaya/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-nm
+
+################################################################################# 
+# Timesys Flags  
+################################################################################
+ 
+ TIMESYS_COMPILER_FLAGS=
+ TIMESYS_LINKER_FLAG= -o "Hello_World" 
